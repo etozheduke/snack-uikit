@@ -18,6 +18,7 @@ export default [
   {
     ignores: [
       '**/dist/**/*',
+      '**/*.figma.tsx',
       'packages/icons/src/components/**/*',
       'packages/icons/templates/**/*',
       'packages/icons/scripts/**/*',
