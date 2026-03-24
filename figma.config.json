@@ -1,0 +1,7 @@
+{
+  "codeConnect": {
+    "parser": "react",
+    "language": "tsx",
+    "defaultBranch": "master"
+  }
+}
